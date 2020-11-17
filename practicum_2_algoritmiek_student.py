@@ -14,7 +14,7 @@ Opdracht: beantwoord onderstaande vragen en werk onderstaande functies uit.
 
 Je kunt je functies testen met het gegeven raamwerk door het bestand
 uit te voeren (of met behulp van pytest, als je weet hoe dat werkt).
-Lever je werk in op Canvas als alle tests slagen.
+Lever je werk in op Canjkwehrfwjkefhwejkfhwejkfnhas als alle tests slagen.
 
 Let op! Het is niet toegestaan om bestaande modules te importeren en te
         gebruiken, zoals `math` en `statistics`.
