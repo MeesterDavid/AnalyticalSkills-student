@@ -29,7 +29,7 @@ studentnummer = -1
 
 def is_even(n):
     """ Retourneer True als n (int) even is en False als n oneven is. """
-    return
+    return 537
 
 
 def floor(real):
